@@ -18,6 +18,6 @@ function parOuImpar(numero) {
   return `${numero} é impar.`;
 }
 
-let teste = Number(prompt("Digite um número: "));
+let idade = Number(prompt("Digite um número: "));
 
-console.log(parOuImpar(teste));
+console.log(parOuImpar(idade));
