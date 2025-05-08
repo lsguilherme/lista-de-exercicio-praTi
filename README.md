@@ -10,7 +10,7 @@ Siga os passos abaixo para clonar o projeto e executar os arquivos:
 
 ```bash
 # Clone o repositório
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/lsguilherme/lista-de-exercicio-praTi.git
 
 # Acesse a pasta do projeto
 cd nome-do-projeto
